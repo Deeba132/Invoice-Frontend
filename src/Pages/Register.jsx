@@ -9,17 +9,17 @@ export default function Register() {
       <div className="flex items-center justify-center h-screen">
         <h3 className="text-red-500">Register</h3>
         <Fieldd name={`Register`} />
+        <Typography variant="small">
+          Already Registered then LogIn{" "}
+          <Button
+            onClick={() => navigate("/login")}
+            size="sm"
+            className="bg-green-600"
+          >
+            LogIn
+          </Button>
+        </Typography>
       </div>
-      <Typography variant="small">
-        Already Registered then LogIn{" "}
-        <Button
-          onClick={() => navigate("/login")}
-          size="sm"
-          className="bg-green-600"
-        >
-          LogIn
-        </Button>
-      </Typography>
     </>
   );
 }
