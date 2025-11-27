@@ -6,7 +6,7 @@ export default function Buttoned({ smalld, onClick }) {
     return (
       <div className="flex w-full flex-col gap-4 bg-red-900">
         <Button isFullWidth variant="ghost" onClick={onClick}>
-          Ghost Block Level Button
+          Submit
         </Button>
       </div>
     );
