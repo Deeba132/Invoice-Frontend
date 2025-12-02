@@ -34,13 +34,13 @@ Environment Variable:
 REACT_APP_API_BASE_URL=https://invoice-backend.up.railway.app/api/v1
 ```
 
-<img src="./invoice/public/images/1.png" alt=""/>
-<img src="./invoice/public/images/2.png" alt=""/>
-<img src="./invoice/public/images/3.png" alt=""/>
-<img src="./invoice/public/images/4.png" alt=""/>
-<img src="./invoice/public/images/5.png" alt=""/>
-<img src="./invoice/public/images/6.png" alt=""/>
-<img src="./invoice/public/images/7.png" alt=""/>
+<img src="./invoice/images/1.png" alt=""/>
+<img src="./invoice/images/2.png" alt=""/>
+<img src="./invoice/images/3.png" alt=""/>
+<img src="./invoice/images/4.png" alt=""/>
+<img src="./invoice/images/5.png" alt=""/>
+<img src="./invoice/images/6.png" alt=""/>
+<img src="./invoice/images/7.png" alt=""/>
 
 🔗 Live Demo
 Frontend (Vercel): (https://invoice-frontend-mu-ten.vercel.app/)
