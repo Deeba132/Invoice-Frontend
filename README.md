@@ -45,7 +45,7 @@ REACT_APP_API_BASE_URL=https://invoice-backend.up.railway.app/api/v1
 🔗 Live Demo
 Frontend (Vercel): (https://invoice-frontend-mu-ten.vercel.app/)
 
-Backend API (Railway): (invoice-backend-production-bcd0.up.railway.app)
+Backend API (Railway): (https://invoice-backend-production-bcd0.up.railway.app/api/auth/test)
 
 Challenges & Learnings:
 
